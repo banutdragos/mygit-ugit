@@ -4,6 +4,7 @@ import sys
 import argparse
 import os  # modificarea/crearea fisierelor
 from . import data
+from . import base
 
 
 def main():
